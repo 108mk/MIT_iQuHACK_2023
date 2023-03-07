@@ -8,3 +8,7 @@
 
 - Qauntum Kernels and Qauntum Support Vector Machines.
 
+## Team Members:
+- Harshkumar Ojha, Masters in Quantum Tech., IISc Bengaluru
+- Viswatma Kamath, Masters in Quantum Tech., IISc Bengaluru
+- Manish Kumar, Masters in Quantum Tech., IISc Bengaluru

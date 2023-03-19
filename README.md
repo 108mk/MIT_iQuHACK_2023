@@ -1,12 +1,12 @@
 # MIT_iQuHack_2023
-## IonQ 'Qauntum Machine Learning'
+## IonQ 'Quantum Machine Learning'
 > 🔭 Challenge/Learning components:
 
-- Qauntum Data encoding: Conversion of classical data (Digital images) to Quantum data before utilising qauntum algorithms.
+- Quantum Data encoding: Conversion of classical data (Digital images) to Quantum data before utilising quantum algorithms.
 
 - Error mitigation in Sampler and its utilisation in estimating state fidality.
 
-- Qauntum Kernels and Qauntum Support Vector Machines.
+- Quantum Kernels and Quantum Support Vector Machines.
 
 ## Team QucKoo Members:
 - Harshkumar Ojha, Masters in Quantum Tech., IISc Bengaluru
